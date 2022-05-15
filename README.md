@@ -1,2 +1,3 @@
 # Paralux-Layout
 a new css-html challenge with my new learning...
+![intro of proje](https://github.com/M-Burak-Yilmazer/Paralux-Layout/blob/master/intro.gif)
