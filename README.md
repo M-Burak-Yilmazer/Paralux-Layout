@@ -1,6 +1,9 @@
 # Paralux-Layout
-a new css-html challenge with my new learning...
- It has big effort💪🏻 
+* a new css-html challenge with my new learning...
+
+* you can  reach this project by [click here](https://m-burak-yilmazer.github.io/Paralux-Layout/)
+* It has big effort💪🏻 
+* 
  
  
 
