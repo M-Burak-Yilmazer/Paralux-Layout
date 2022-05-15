@@ -3,7 +3,7 @@
 
 * you can  reach this project by [click here](https://m-burak-yilmazer.github.io/Paralux-Layout/)
 * It has big effort💪🏻 
-* 
+
  
  
 
